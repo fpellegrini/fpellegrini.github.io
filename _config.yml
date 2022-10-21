@@ -8,7 +8,7 @@
 title: Franziska Pellegrini
 email: franziska.pellegrini@charite.de
 description: >- # this means to ignore newlines until "baseurl:"
-  # Description fuer rechts unten in grau
+  Description fuer rechts unten in grau
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: @pellegrini_fp
