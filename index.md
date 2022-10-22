@@ -24,8 +24,7 @@ Haumesser, Jens K, Maximilian H Beck, Franziska Pellegrini, Johanna Kühn, Wolf-
 Pellegrini, Franziska, David J Hawellek, Anna-Antonia Pape, Joerg F Hipp, and Markus Siegel. [Motion Coherence and Luminance Contrast Interact in Driving Visual Gamma-Band Activity](https://academic.oup.com/cercor/article/31/3/1622/5954190?login=false). Cerebral Cortex 31, no. 3 (2021): 1622–31.
 
 
-# Teaching 
-## Student supervision 
+# Student supervision 
 - Assessment of Phase-Amplitude-Coupling connectivity methods and their robustness to spurious interactions (Master's Thesis)
 - Bispectral delay estimation (lab rotation)
 - Estimating Signal Time-Delays under Mixed Noise Influence with Cross- and Bi-Spectral Methods (Master's Thesis)
