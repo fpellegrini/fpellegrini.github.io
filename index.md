@@ -33,7 +33,7 @@ At work, I also try to improve life in science by engaging in the Equal Opportun
 
 
 # Contact
-[email](franziska.pellegrini@charite.de) 
+franziska.pellegrini@charite.de 
 
 [repositories](https://github.com/fpellegrini)
 
