@@ -229,10 +229,11 @@ blockquote p:last-child {
 
 img {
   display: block;
-  max-width: 100%;
-  margin: 0 0 1rem;
+  max-width: 50%;
+  margin: 0.25rem 0 1rem 1rem;
   border-radius: 5px;
-  float:right
+  float:right;
+  text-align:justify;
 }
 
 /* Tables */
