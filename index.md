@@ -12,9 +12,6 @@ The other part of my PhD focuses on functional connectivity analysis in movement
 
 At work, I also try to improve life in science by engaging in the Equal Opportunity Committee of the [Retune](https://sfb-retune.de) Project. Outside of research, I like all kinds of music. I play the cello and sing in a choir. I also enjoy gardening and the outdoors. Since I think that it is important to support our democracy in these difficult times, I recently joined a German democratic party and go to demonstrations regularly. I try to keep my carbon footprint small by [not flying](https://flyingless.de/en/) since January 2016, eating vegan/vegetarian diet, and boycotting fast fashion.
 
-# Awards 
-- [DGKN 2022](https://www.dgkn-kongress.de): Best Poster Award 2022
-- [BCCN](https://www.bccn-berlin.de): Best Poster Award 2022
 
 # Publications 
 Pellegrini, Franziska, Arnaud Delorme, Vadim Nikulin, and Stefan Haufe. [Identifying Best Practices for Detecting Inter-Regional Functional Connectivity from EEG](https://www.biorxiv.org/content/10.1101/2022.10.05.510753.abstract). BioRxiv, 2022.
@@ -22,6 +19,11 @@ Pellegrini, Franziska, Arnaud Delorme, Vadim Nikulin, and Stefan Haufe. [Identif
 Haumesser, Jens K, Maximilian H Beck, Franziska Pellegrini, Johanna Kühn, Wolf-Julian Neumann, Jennifer Altschüler, Daniel Harnack, et al. [Subthalamic Beta Oscillations Correlate with Dopaminergic Degeneration in Experimental Parkinsonism](https://www.sciencedirect.com/science/article/abs/pii/S0014488620303447). Experimental Neurology 335 (2021): 113513.
 
 Pellegrini, Franziska, David J Hawellek, Anna-Antonia Pape, Joerg F Hipp, and Markus Siegel. [Motion Coherence and Luminance Contrast Interact in Driving Visual Gamma-Band Activity](https://academic.oup.com/cercor/article/31/3/1622/5954190?login=false). Cerebral Cortex 31, no. 3 (2021): 1622–31.
+
+
+# Awards 
+- [DGKN 2022](https://www.dgkn-kongress.de): Best Poster Award 2022
+- [BCCN](https://www.bccn-berlin.de): Best Poster Award 2022
 
 
 # Student supervision 
