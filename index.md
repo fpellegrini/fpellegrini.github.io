@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![alt text](https://github.com/fpellegrini/fpellegrini.github.io/blob/master/testpic)
+![alt text](https://github.com/fpellegrini/fpellegrini.github.io/blob/master/testpic?raw=true)
 
 Hi! I’m a PhD student at the [Charité-Universitätsmedizin](https://www.charite.de) Berlin and at the [Bernstein Center for Computational Neuroscience](https://www.bccn-berlin.de). I’m a member of the [Quality in AI](https://braindata.charite.de/en/) group, lead by [Prof. Stefan Haufe](https://www.tu.berlin/vcard/haufe/). Prior to my PhD, I studied psychology at the [University of Mannheim](https://www.uni-mannheim.de) and at [Bilgi Üniversitesi](https://www.bilgi.edu.tr/en/) Istanbul, and neuroscience at the [International Max Planck Research School](https://www.neuroschool-tuebingen.de) in Tübingen.
 
