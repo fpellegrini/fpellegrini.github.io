@@ -12,7 +12,7 @@ The other part of my PhD focuses on functional connectivity analysis in movement
 
 At work, I also try to improve life in science by engaging in the Equal Opportunity Committee of the [Retune](https://sfb-retune.de) Project. Outside of research, I like all kinds of music. I play the cello and sing in a choir. I also enjoy gardening and the outdoors. Since I think that it is important to support our democracy in these difficult times, I recently joined a German democratic party and go to demonstrations regularly. I try to keep my carbon footprint small by [not flying](https://flyingless.de/en/) since January 2016, eating vegan/vegetarian diet, and boycotting fast fashion.
 
-# Rewards 
+# Awards 
 - [DGKN 2022](https://www.dgkn-kongress.de): Best Poster Award 2022
 - [BCCN](https://www.bccn-berlin.de): Best Poster Award 2022
 
