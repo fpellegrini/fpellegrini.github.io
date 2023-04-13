@@ -50,3 +50,5 @@ franziska.pellegrini@charite.de
 
 [twitter](https://twitter.com/pellegrini_fp)
 
+[linkedIn](https://www.linkedin.com/in/franziska-pellegrini-1b3784176)
+
