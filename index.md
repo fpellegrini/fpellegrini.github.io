@@ -28,7 +28,7 @@ Pellegrini, Franziska. [Evolution of Beta Bursts in the 6-OHDA Rat Model](https:
 
 Pellegrini, Franziska. [Sleep Detection in Completely Locked-in ALS Patients](https://github.com/fpellegrini/fpellegrini.github.io/blob/master/public/Labreport_Pellegrini.pdf). Lab Report (2018).
 
-Pellegrini, Franziska. [A Global Memory Model Perspective on the Revelation Effect](https://github.com/fpellegrini/fpellegrini.github.io/blob/master/public/Bachelorarbeit_Pellegrini.pdf). Bachelor Thesis (2015).
+Pellegrini, Franziska. [A Global Memory Model Perspective on the Revelation Effect](https://github.com/fpellegrini/fpellegrini.github.io/blob/master/public/Bachelorarbeit_Pellegrini.pdf). Bachelor's Thesis (2015).
 
 
 # Awards 
