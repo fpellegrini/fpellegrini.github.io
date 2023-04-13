@@ -24,7 +24,11 @@ Haumesser, Jens K, Maximilian H Beck, Franziska Pellegrini, Johanna Kühn, Wolf-
 
 Pellegrini, Franziska, David J Hawellek, Anna-Antonia Pape, Joerg F Hipp, and Markus Siegel. [Motion Coherence and Luminance Contrast Interact in Driving Visual Gamma-Band Activity](https://academic.oup.com/cercor/article/31/3/1622/5954190?login=false). Cerebral Cortex 31, no. 3 (2021): 1622–31.
 
-Pellegrini, Franziska. [A Global Memory Model Perspective on the Revelation Effect](https://github.com/fpellegrini/fpellegrini.github.io/blob/master/public/Bachelorarbeit_Pellegrini.pdf). Bachelor Thesis. 
+Pellegrini, Franziska. [Evolution of Beta Bursts in the 6-OHDA Rat Model](https://github.com/fpellegrini/fpellegrini.github.io/blob/master/public/MasterThesis_FranziskaPellegrini.pdf). Master's Thesis (2018).
+
+Pellegrini, Franziska. [Sleep Detection in Completely Locked-in ALS Patients](https://github.com/fpellegrini/fpellegrini.github.io/blob/master/public/Labreport_Pellegrini.pdf). Lab Report (2018).
+
+Pellegrini, Franziska. [A Global Memory Model Perspective on the Revelation Effect](https://github.com/fpellegrini/fpellegrini.github.io/blob/master/public/Bachelorarbeit_Pellegrini.pdf). Bachelor Thesis (2015).
 
 
 # Awards 
