@@ -46,7 +46,7 @@ Haumesser, Jens K, Maximilian H Beck, **Franziska Pellegrini**, Johanna Kühn, W
 # Contact
 franziska.pellegrini@charite.de 
 
-[repositories](https://github.com/fpellegrini)
+[github](https://github.com/fpellegrini)
 
 [twitter](https://twitter.com/pellegrini_fp)
 
