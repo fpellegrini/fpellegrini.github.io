@@ -26,9 +26,9 @@ Haumesser, Jens K, Maximilian H Beck, **Franziska Pellegrini**, Johanna Kühn, W
 
 Pellegrini, Franziska. [Evolution of Beta Bursts in the 6-OHDA Rat Model](https://github.com/fpellegrini/fpellegrini.github.io/blob/master/public/MasterThesis_FranziskaPellegrini.pdf?raw=true). Master's Thesis (2018).
 
-Pellegrini, Franziska. [Sleep Detection in Completely Locked-in ALS Patients](https://github.com/fpellegrini/fpellegrini.github.io/blob/master/public/Labreport_Pellegrini.pdf). Lab Report (2018).
+Pellegrini, Franziska. [Sleep Detection in Completely Locked-in ALS Patients](https://github.com/fpellegrini/fpellegrini.github.io/blob/master/public/Labreport_Pellegrini.pdf?raw=true). Lab Report (2018).
 
-Pellegrini, Franziska. [A Global Memory Model Perspective on the Revelation Effect](https://github.com/fpellegrini/fpellegrini.github.io/blob/master/public/Bachelorarbeit_Pellegrini.pdf). Bachelor's Thesis (2015).
+Pellegrini, Franziska. [A Global Memory Model Perspective on the Revelation Effect](https://github.com/fpellegrini/fpellegrini.github.io/blob/master/public/Bachelorarbeit_Pellegrini.pdf?raw=true). Bachelor's Thesis (2015).
 
 
 # Awards 
