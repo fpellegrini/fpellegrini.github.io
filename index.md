@@ -16,13 +16,13 @@ I work to improve life in science by engaging in the Equal Opportunity Committee
 
 
 # Publications 
-Pellegrini, Franziska, Arnaud Delorme, Vadim Nikulin, and Stefan Haufe. [Identifying Best Practices for Detecting Inter-Regional Functional Connectivity from EEG](https://www.biorxiv.org/content/10.1101/2022.10.05.510753.abstract). BioRxiv, 2022. [>code](https://github.com/fpellegrini/FCsim) [ >toolbox implementation](https://github.com/arnodelorme/roiconnect)
+**Pellegrini, Franziska**, Arnaud Delorme, Vadim Nikulin, and Stefan Haufe. [Identifying Best Practices for Detecting Inter-Regional Functional Connectivity from EEG](https://www.biorxiv.org/content/10.1101/2022.10.05.510753.abstract). BioRxiv, 2022. [>code](https://github.com/fpellegrini/FCsim) [ >toolbox implementation](https://github.com/arnodelorme/roiconnect)
 
-Haufe, Stefan, Ioannis U. Isaias, Franziska Pellegrini, and Chiara Palmisano.[Gait Event Prediction Using Surface Electromyography in Parkinsonian Patients](https://www.mdpi.com/2306-5354/10/2/212). Bioengineering 10, no. 2 (2023): 212.
+Haufe, Stefan, Ioannis U. Isaias, **Franziska Pellegrini**, and Chiara Palmisano.[Gait Event Prediction Using Surface Electromyography in Parkinsonian Patients](https://www.mdpi.com/2306-5354/10/2/212). Bioengineering 10, no. 2 (2023): 212.
 
-Haumesser, Jens K, Maximilian H Beck, Franziska Pellegrini, Johanna Kühn, Wolf-Julian Neumann, Jennifer Altschüler, Daniel Harnack, et al. [Subthalamic Beta Oscillations Correlate with Dopaminergic Degeneration in Experimental Parkinsonism](https://www.sciencedirect.com/science/article/abs/pii/S0014488620303447). Experimental Neurology 335 (2021): 113513.
+Haumesser, Jens K, Maximilian H Beck, **Franziska Pellegrini**, Johanna Kühn, Wolf-Julian Neumann, Jennifer Altschüler, Daniel Harnack, et al. [Subthalamic Beta Oscillations Correlate with Dopaminergic Degeneration in Experimental Parkinsonism](https://www.sciencedirect.com/science/article/abs/pii/S0014488620303447). Experimental Neurology 335 (2021): 113513.
 
-Pellegrini, Franziska, David J Hawellek, Anna-Antonia Pape, Joerg F Hipp, and Markus Siegel. [Motion Coherence and Luminance Contrast Interact in Driving Visual Gamma-Band Activity](https://academic.oup.com/cercor/article/31/3/1622/5954190?login=false). Cerebral Cortex 31, no. 3 (2021): 1622–31.
+**Pellegrini, Franziska**, David J Hawellek, Anna-Antonia Pape, Joerg F Hipp, and Markus Siegel. [Motion Coherence and Luminance Contrast Interact in Driving Visual Gamma-Band Activity](https://academic.oup.com/cercor/article/31/3/1622/5954190?login=false). Cerebral Cortex 31, no. 3 (2021): 1622–31.
 
 Pellegrini, Franziska. [Evolution of Beta Bursts in the 6-OHDA Rat Model](https://github.com/fpellegrini/fpellegrini.github.io/blob/master/public/MasterThesis_FranziskaPellegrini.pdf). Master's Thesis (2018).
 
